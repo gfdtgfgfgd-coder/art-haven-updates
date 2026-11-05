@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Art Haven</title>
     <item>
-      <title>Art Haven 0.3.2</title>
-      <pubDate>Thu, 05 Nov 2026 12:53:11 GMT</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <title>Art Haven 0.3.3</title>
+      <pubDate>Thu, 05 Nov 2026 13:44:40 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/gfdtgfgfgd-coder/art-haven-updates/releases/download/v0.3.2/Art-Haven-0.3.2.zip" length="2839043" type="application/octet-stream" sparkle:edSignature="CvhW12il+WTWFD+4WFS390ggycVc+I3jLlMgN37LFxFS6pCCf1sRrRzlSbm81O7ZSUNqlZ6EWnLHRdU+lUsPAw=="></enclosure>
+      <enclosure url="https://github.com/gfdtgfgfgd-coder/art-haven-updates/releases/download/v0.3.3/Art-Haven-0.3.3.zip" length="2844144" type="application/octet-stream" sparkle:edSignature="774YlIYTrBd8JtBZSDebcoHwYdEFfm9i382nmlh+0r/ZghuqI3mqORBCkUYRQYrfmecqb9/6fHofimJmYuLwDg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 8xf3i4YfTUZGWqeSDfGyXN+EdKM/qysS+DuiMcFhajQhOY6yovPSPSlYgCtZEhQ6kmcUIpdRMCYelqCL8FdOAw==
+edSignature: x+GJ3WNSkKdm7v+aYsQrMmmrIZAbPrlf9L4PUozJa2JxM4FVzLyzEolbVz6afzS8//E1NbQMNEQwpGsd7TfZCw==
 length: 1033
 -->
